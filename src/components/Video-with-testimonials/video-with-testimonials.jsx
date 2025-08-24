@@ -64,6 +64,7 @@ const VideoWithTestimonials = () => {
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
+              {/* Video play button commented out
               <div className="vid-area">
                 <span className="text">Watch Video</span>
                 <div className="vid-icon">
@@ -82,6 +83,7 @@ const VideoWithTestimonials = () => {
                   </a>
                 </div>
               </div>
+              */}
             </div>
             <div className="col-lg-5 offset-lg-1">
               <div className="testim-box">
@@ -167,7 +169,7 @@ const VideoWithTestimonials = () => {
         </div>
       </div>
 
-      {/* Custom Video Modal */}
+      {/* Custom Video Modal - Commented out 
       {isOpen && (
         <div
           ref={modalRef}
@@ -218,6 +220,7 @@ const VideoWithTestimonials = () => {
           </div>
         </div>
       )}
+      */}
     </section>
   );
 };
