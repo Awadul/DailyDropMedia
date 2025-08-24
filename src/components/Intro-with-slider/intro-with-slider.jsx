@@ -84,7 +84,8 @@ const IntroWithSlider = ({ sliderRef }) => {
                   style={{ backgroundImage: `url(${slide.image})` }}
                   data-overlay-dark="6"
                 >
-                  <div className="container">
+                  {/* Commented out content that appears on top of the background image */}
+                  {/* <div className="container">
                     <div className="row justify-content-center">
                       <div className="col-lg-8 col-md-10">
                         <div className="caption center mt-30">
@@ -98,13 +99,14 @@ const IntroWithSlider = ({ sliderRef }) => {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </SwiperSlide>
             ))}
           </Swiper>
         ) : null}
-        <div className="setone setwo">
+        {/* Commented out navigation controls */}
+        {/* <div className="setone setwo">
           <div
             ref={navigationNextRef}
             className="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer"
@@ -133,7 +135,7 @@ const IntroWithSlider = ({ sliderRef }) => {
           <a href="#0">
             <i className="fab fa-pinterest-p"></i>
           </a>
-        </div>
+        </div> */}
       </div>
     </header>
   );
