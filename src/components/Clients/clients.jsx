@@ -48,6 +48,7 @@ const Clients = ({theme}) => {
                           <img src={item.darkImage} alt="" />
                         )}
                         <Split>
+                          {/* Original URL hover functionality commented out
                           <a
                             href="#0"
                             className="link words chars splitting"
@@ -55,6 +56,13 @@ const Clients = ({theme}) => {
                           >
                             {item.url}
                           </a>
+                          */}
+                          <span
+                            className="link words chars splitting"
+                            data-splitting
+                          >
+                            {item.url}
+                          </span>
                         </Split>
                       </div>
                     </div>
@@ -98,6 +106,7 @@ const Clients = ({theme}) => {
                           <img src={item.darkImage} alt="" />
                         )}
                         <Split>
+                          {/* Original URL hover functionality commented out
                           <a
                             href="#0"
                             className="link words chars splitting"
@@ -105,6 +114,13 @@ const Clients = ({theme}) => {
                           >
                             {item.url}
                           </a>
+                          */}
+                          <span
+                            className="link words chars splitting"
+                            data-splitting
+                          >
+                            {item.url}
+                          </span>
                         </Split>
                       </div>
                     </div>
