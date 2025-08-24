@@ -17,8 +17,8 @@ const Clients = ({theme}) => {
               </h6>
               <h3 className="wow mb-20 color-font">Our Clients</h3>
               <p>
-                Our area of practice is quite wide: design, graphics, branding,
-                development.
+                Our expertise covers campaign design, creative content, branding, and 
+                performance-driven development for TikTok growth.
               </p>
             </div>
           </div>

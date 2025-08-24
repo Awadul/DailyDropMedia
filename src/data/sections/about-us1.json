@@ -2,10 +2,20 @@
   "id": 1,
   "smallTitle": "About Us",
   "title": "Our Comapny",
-  "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+  "content": "We're a focused team that plans, produces, and manages TikTok slideshow campaigns end-to-end. Our approach is simple: identify what resonates with your audience, test it rapidly, and scale the winners.",
   "image": "/img/feat.jpg",
   "stauts": [
-    { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
-    { "id": 2, "number": "14", "letter": "K", "stautsName": "Success Projects" }
+    {
+      "id": 1,
+      "number": "3",
+      "letter": "K",
+      "stautsName": "Happy Clients"
+    },
+    {
+      "id": 2,
+      "number": "14",
+      "letter": "K",
+      "stautsName": "Success Projects"
+    }
   ]
 }

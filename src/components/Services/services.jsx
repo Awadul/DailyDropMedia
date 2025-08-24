@@ -16,7 +16,7 @@ const Services = ({ style, lines }) => {
                 Best Features
               </h6>
               <h3 className="wow color-font">
-                We are a new digital product development agency
+                Your partner in scaling apps and brands through data-driven TikTok campaigns.
               </h3>
             </div>
           </div>

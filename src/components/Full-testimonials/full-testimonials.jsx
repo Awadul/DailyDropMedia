@@ -119,8 +119,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    Working with this team was an absolute pleasure. They delivered
-                    exceptional results that exceeded our expectations.
+                    Their team is unbelievably quick! From the first draft to final delivery, everything was on point and on time. Perfect for keeping up with fast-moving social trends.
                   </p>
                 </div>
                 <div className="item">
@@ -182,8 +181,7 @@ class FullTestimonials extends React.Component {
                     </div>
                   </div>
                   <p>
-                    From concept to launch, this team was professional and delivered
-                    a website that perfectly represents our company.
+                    As a startup, we didn’t think we could afford high-quality TikTok campaigns — but they customized a plan that fit our budget and still delivered huge results.
                   </p>
                 </div>
               </Slider>
