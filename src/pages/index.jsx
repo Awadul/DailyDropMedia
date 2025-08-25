@@ -1,5 +1,5 @@
 import React from "react";
-import Homepage1 from "./homepage/home1-light";
+import Homepage1 from "./homepage/home1-dark";
 
 const Home = () => {
   return (
