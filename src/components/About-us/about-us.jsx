@@ -26,6 +26,7 @@ const AboutUs = () => {
           </div>
           <div className="col-lg-7 img">
             <img src={AboutUs1Date.image} alt="" />
+            {/* Stats section commented out
             <div className="stauts">
               {AboutUs1Date.stauts.map((item) => (
                 <div className="item" key={item.id}>
@@ -37,6 +38,7 @@ const AboutUs = () => {
                 </div>
               ))}
             </div>
+            */}
           </div>
         </div>
       </div>
