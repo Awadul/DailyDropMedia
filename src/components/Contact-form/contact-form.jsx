@@ -161,7 +161,7 @@ const ContactForm = () => {
                 </h5>
                 <h5>{ContactFromDate.phone}</h5>
               </div>
-              <h3 className="wow" data-splitting>
+              {/* <h3 className="wow" data-splitting>
                 Visit Us.
               </h3>
               <div className="item">
@@ -170,7 +170,7 @@ const ContactForm = () => {
                   <br />
                   {ContactFromDate.location.second}
                 </h6>
-              </div>
+              </div> */}
               <div className="social mt-50">
                 <a href="#0" className="icon">
                   <i className="fab fa-facebook-f"></i>
