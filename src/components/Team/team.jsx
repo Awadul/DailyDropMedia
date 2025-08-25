@@ -18,16 +18,16 @@ const Team = () => {
           <div className="col-lg-5 valign">
             <div className="content wow fadeInUp md-mb30" data-wow-delay=".5s">
               <div className="sub-title">
-                <h6>Our Staff</h6>
+                <h6>DailyDropMedia Team</h6>
                 <span></span>
                 <span></span>
                 <span></span>
               </div>
               <h3 className="co-tit mb-15">
-                We help to create visual strategies.
+                We craft scroll‑stopping content and data‑driven growth strategies.
               </h3>
               <p>
-                We are PixelCraft. Crafting innovative software, stunning websites, and smart apps that bring ideas to life.
+                At DailyDropMedia, creators, editors, and strategists partner to launch, test, and scale campaigns across TikTok and social.
               </p>
               <div className="skills-box mt-40">
                 {teamsDate.skills.map((skill) => (

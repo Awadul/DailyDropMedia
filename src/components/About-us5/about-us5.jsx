@@ -19,12 +19,12 @@ const AboutUs5 = () => {
           </div>
           <div className="col-lg-5 valign">
             <div className="cont full-width">
-              <h3 className="color-font">UI / UX Designer</h3>
+              <h3 className="color-font">DailyDropMedia</h3>
               <h5 className="co-tit mb-15">
-                We help to create visual strategies.
+                We create visual strategies that convert attention into growth.
               </h5>
               <p>
-                We are PixelCraft. Crafting innovative software, stunning websites, and smart apps that bring ideas to life.
+                We produce viral-first content, social campaigns, and performance creatives that help brands scale on TikTok and beyond.
               </p>
               <div className="skills-box mt-40">
                 <div className="skill-item">

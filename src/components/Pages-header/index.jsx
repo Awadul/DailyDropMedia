@@ -17,8 +17,8 @@ const PagesHeader = () => {
           <div className="col-lg-10">
             <div className="cont mt-100 mb-50 text-center">
               <h1 className="color-font fw-700">
-                Our dedicated team of creatives is bursting with talent,
-                experience and passion for what we do.
+                DailyDropMedia empowers brands with viral-ready content,
+                data-driven strategy, and world-class creative.
               </h1>
             </div>
           </div>
