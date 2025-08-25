@@ -155,7 +155,7 @@ const Demos = () => {
               <div className="capt mt-50">
                 <div className="bactxt custom-font valign">
                   <span className="full-width" style={{ color: "transparent" }}>
-                    Pixel Craft
+                    DailyDropMedia
                   </span>
                 </div>
               </div>
@@ -373,7 +373,7 @@ const Demos = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                     <span className="dot"></span>
-                    <Link href="/homepage/home5-dark">
+                    <Link href="/homepage/home1-dark">
                       <a target="_blank">
                         <div className="img">
                           <img src="/demo-img/3.png" alt="image" />
@@ -391,7 +391,7 @@ const Demos = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                     <span className="dot"></span>
-                    <Link href="/homepage/home5-light">
+                    <Link href="/homepage/home1-light">
                       <a target="_blank">
                         <div className="img">
                           <img src="/demo-img/03.png" alt="image" />
@@ -1115,7 +1115,7 @@ const Demos = () => {
                 <div className="content sm-mb30">
                   <Split>
                     <h6 className="wow words chars splitting" data-splitting>
-                      Purchase The Pixel Craft
+                      Purchase The DailyDropMedia
                     </h6>
                     <h2 className="wow words chars splitting" data-splitting>
                       and Make <br />

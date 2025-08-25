@@ -27,7 +27,7 @@ const MinimalArea = () => {
             <div className="content pt-0">
               <h4 className="wow color-font">About us.</h4>
               <p className="wow txt" data-splitting>
-                PixelCraft is a leading software agency delivering innovative solutions for startups and established businesses. 
+                DailyDropMedia is a leading software agency delivering innovative solutions for startups and established businesses. 
                 We transform ideas into seamless digital experiences that drive results.
               </p>
               <ul className="feat">
@@ -36,7 +36,7 @@ const MinimalArea = () => {
                     <span>1</span> Our Mission
                   </h6>
                   <p>
-                    We aim to craft pixel-perfect digital experiences, blending innovation and design to bring ideas to life.
+                    We help brands go viral by creating TikTok content that entertains, engages, and connects with audiences daily. Our mission is to turn every post into a growth opportunity.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
@@ -44,7 +44,7 @@ const MinimalArea = () => {
                     <span>2</span> Our Goals
                   </h6>
                   <p>
-                    We strive to deliver innovative software solutions that empower creativity, efficiency, and seamless digital experiences.
+                    We aim to build authentic communities, boost engagement, and deliver measurable results. From strategy to execution, our goal is to make your brand a TikTok trendsetter.
                   </p>
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".6s">
@@ -52,9 +52,10 @@ const MinimalArea = () => {
                     <span>3</span> Why Us?
                   </h6>
                   <p>
-                    Our expertise in cutting-edge technology and design ensures solutions that are efficient, scalable, and visually striking—built to elevate your digital presence.
+                    Our team blends creativity with data-driven insights, ensuring every campaign not only looks great but performs exceptionally. With DailyDropMedia, your brand doesn’t just post — it grows, trends, and leads.
                   </p>
                 </li>
+
               </ul>
             </div>
           </div>

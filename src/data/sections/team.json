@@ -3,38 +3,48 @@
     {
       "id": 1,
       "image": "/img/team/1.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "title": "Ava Johnson",
+      "sub": "Founder & CEO, DailyDropMedia"
     },
     {
       "id": 2,
       "image": "/img/team/2.jpg",
-      "title": "Alex Regelman",
-      "sub": "CEO, Colabrio Media"
+      "title": "Marcus Lee",
+      "sub": "Head of Creative Strategy"
     },
     {
       "id": 3,
       "image": "/img/team/3.jpg",
-      "title": "Stacey Stamper",
-      "sub": "CEO, Colabrio Media"
+      "title": "Sofia Martinez",
+      "sub": "Lead Content Creator"
     },
     {
       "id": 4,
       "image": "/img/team/4.jpg",
-      "title": "Stephanie Lawrence",
-      "sub": "CEO, Colabrio Media"
+      "title": "Daniel Carter",
+      "sub": "Performance Marketing Manager"
     }
   ],
   "skills": [
     {
       "id": 1,
-      "text": "UI / UX Design",
-      "value": "90%"
+      "text": "TikTok Content Creation",
+      "value": "95%"
     },
     {
       "id": 2,
-      "text": "Apps Development",
-      "value": "80%"
+      "text": "Trend Forecasting & Strategy",
+      "value": "90%"
+    },
+    {
+      "id": 3,
+      "text": "Community Growth & Engagement",
+      "value": "92%"
+    },
+    {
+      "id": 4,
+      "text": "Data-Driven Performance Marketing",
+      "value": "88%"
     }
   ]
 }
