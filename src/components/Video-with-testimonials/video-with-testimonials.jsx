@@ -56,9 +56,9 @@ const VideoWithTestimonials = () => {
 
   return (
     <section className="block-sec">
-      <div
-        className="background bg-img pt-100 pb-0 parallaxie"
-        style={{ backgroundImage: `url(/img/bg-vid.jpg)` }}
+      <div 
+        className="background bg-img pt-100 pb-0 parallaxie" 
+        style={{ backgroundImage: `url(/img/image.299Z.png)` }}
         data-overlay-dark="5"
       >
         <div className="container">
