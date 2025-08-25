@@ -111,11 +111,13 @@ const Navbar = ({ lr, nr, theme }) => {
               </div>
             </li>
             */}
+            {/* Works section commented out
             <li className="nav-item">
               <Link href={isLightTheme ? "/works2/works2-light" : "/works2/works2-dark"}>
                 <a className="nav-link">Works</a>
               </Link>
             </li>
+            */}
             {/* 
             <li className="nav-item dropdown" onClick={handleDropdown}>
               <span
@@ -143,11 +145,13 @@ const Navbar = ({ lr, nr, theme }) => {
               </div>
             </li>
             */}
+            {/* Blog section commented out
             <li className="nav-item">
               <Link href={isLightTheme ? "/blog/blog-light" : "/blog/blog-dark"}>
                 <a className="nav-link">Blog</a>
               </Link>
             </li>
+            */}
             <li className="nav-item">
               <Link href={isLightTheme ? "/contact/contact-light" : "/contact/contact-dark"}>
                 <a className="nav-link">Contact</a>

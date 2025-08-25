@@ -24,14 +24,14 @@ const PagesHeader = () => {
           </div>
           <div className="col-lg-10">
             <div className="img">
-              {/* <img src="/img/slid/about.jpg" alt="" /> */}
+              {/* <img src="/img/slid/about.jpg" alt="" />
               <video
                 ref={videoRef}
                 src="/img/slid/about.mp4"
                 muted
                 playsInline
                 className="responsive-header-video"
-              ></video>
+              ></video> */}
             </div>
           </div>
         </div>
