@@ -3,24 +3,36 @@
         "id": 1,
         "icon": "pe-7s-paint-bucket",
         "title": "Discover",
-        "content": "We analyze your app, target audience, and competitors to identify the most effective content style and messaging strategy."
+        "content": "We dive deep into your app, audience, and competitors to uncover the most effective strategies, positioning, and messaging."
     },
     {
         "id": 2,
         "icon": "pe-7s-phone",
         "title": "Test",
-        "content": "We create and deploy test campaigns across multiple accounts, gathering real performance data to validate our approach."
+        "content": "We design and launch pilot campaigns across multiple accounts, gathering performance data to validate creative directions and targeting."
     },
     {
         "id": 3,
-        "icon": "pe-7s-display1",
-        "title": "Scale",
-        "content": "We roll out winning content across our network of accounts, continuously optimizing for maximum reach and conversion."
+        "icon": "pe-7s-graph1",
+        "title": "Optimize",
+        "content": "We refine campaigns with A/B testing, audience insights, and conversion data—removing what doesn’t work and amplifying what does."
     },
     {
         "id": 4,
+        "icon": "pe-7s-display1",
+        "title": "Scale",
+        "content": "We expand high-performing campaigns across networks, driving consistent growth, stronger ROI, and maximum reach."
+    },
+    {
+        "id": 5,
+        "icon": "pe-7s-shield",
+        "title": "Protect",
+        "content": "We ensure compliance, privacy, and digital safeguards, keeping your brand secure and future-proof while scaling."
+    },
+    {
+        "id": 6,
         "icon": "pe-7s-diskette",
-        "title": "Document Legal Policy",
-        "content": "We create, review, and manage digital legal documents and policies that keep your business compliant, secure, and future-ready."
+        "title": "Sustain",
+        "content": "We continuously monitor and evolve campaigns with new insights, ensuring your growth adapts with changing markets."
     }
 ]
