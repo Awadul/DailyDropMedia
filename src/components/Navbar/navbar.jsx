@@ -158,7 +158,7 @@ const Navbar = ({ lr, nr, theme }) => {
               </Link>
             </li>
             
-            {/* Light Mode Toggle Button */}
+            {/* Light Mode Toggle Button - Commented Out
             <li className="nav-item" style={{ marginLeft: '20px', marginTop: '20px' }}>
               <button
                 className="theme-toggle-btn"
@@ -207,6 +207,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 <span style={{ fontSize: '11px', whiteSpace: 'nowrap' }}>{buttonText}</span>
               </button>
             </li>
+            */}
           </ul>
         </div>
       </div>
